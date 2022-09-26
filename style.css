@@ -21,7 +21,7 @@ body{
     height: 80px;
     background: #1d2c38;
     font-family: 'Yeon Sung', cursive;
-    /* position: fixed; */
+    position: fixed;
     top: 0;
     left: 0;
     padding: 0 10vw;
